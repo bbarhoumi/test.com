@@ -7,14 +7,18 @@
         </data>
         <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
             <word>app</word>
+            <word>ci</word>
             <word>config</word>
             <word>configurator</word>
             <word>dev</word>
             <word>Fabien</word>
             <word>getcomposer</word>
             <word>http</word>
+            <word>https</word>
+            <word>Monolog</word>
             <word>php</word>
             <word>Symfony</word>
+            <word>travis</word>
         </spellchecker-wordlist>
     </configuration>
 </project>
